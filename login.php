@@ -1,5 +1,5 @@
 <?php
-require 'function.php';
+require 'control/function.php';
 
 //cek login, terdaftar tidak 
 if (isset($_POST['login'])) {
